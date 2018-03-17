@@ -7,7 +7,7 @@ We found that the maximum range of detection was approximately 3-4 meters, depen
 <p align="center">
 <img src="https://github.com/mademakerspace/WCD_2018/blob/master/event_photos/28827795_939780672866287_7181872161296220920_o.jpg" height="400" />
 </p>
-After cutting a hole, we put the RCWL inside the can and.... it worked! The sensor only detected movement that passed in front of the opening in the beer can. This means we can easily shield our neighbors from ~~dangerous microwave radiation~~ accidentally triggering our ninja detection system.
+After cutting a hole, we put the RCWL inside the can and.... it worked! The sensor only detected movement that passed in front of the opening in the beer can. This means we can easily shield our neighbors from accidentally triggering our ninja detection system.
 
 ## Setting up Node Red
 
