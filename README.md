@@ -26,12 +26,12 @@ This repository exists to document what we all worked on during the Hackaday Wor
 
 ## Ideas
 
-- Motion-detection system with RCWL-0516 && ESP8266 && MQTT
+- Motion-detection system with RCWL-0516 && ESP8266 && MQTT: [NoNinjasInMadeBCN](https://github.com/mademakerspace/WCD_2018/tree/master/NoNinjasInMadeBCN)
 - Inverted glass harp
 - WiFi-based theramin
 - Ping-pong ball launcher for training
 - Trello integrated ticket printer
-- [RFID-based laser cutter payment tracking system](https://github.com/mademakerspace/RfidLaserControl)
+- RFID-based laser cutter payment tracking system: [RfidLaserControl](https://github.com/mademakerspace/RfidLaserControl)
 
 ## Presentation
 https://docs.google.com/presentation/d/1cl3ufOe8q6fEfm7kfhB44KNVKosH6dW5tWTXb9p3P98/edit?usp=sharing
