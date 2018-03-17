@@ -32,6 +32,7 @@ This repository exists to document what we all worked on during the Hackaday Wor
 - WiFi-based theramin
 - Ping-pong ball launcher for training
 - Trello integrated ticket printer
+- RFID-based laser cutter payment tracking system
 
 ## Presentation
 https://docs.google.com/presentation/d/1cl3ufOe8q6fEfm7kfhB44KNVKosH6dW5tWTXb9p3P98/edit?usp=sharing
