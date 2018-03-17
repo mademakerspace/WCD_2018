@@ -7,19 +7,25 @@ This repository exists to document what we all worked on during the Hackaday Wor
 
 
 **Attendees**
--
--
--
--
--
+- Will
+- Samuel
+- Pablo
+- Marc
+- Lindsey
+- Joan
+- Jeppe
+- Imanol
+- Gonzalo
+- Eugenio
+- Charlie
+- Bastiaan
+- Alfonso
+- Abel
+
 
 **Ideas**
--
--
--
--
-
-**Projects**
--
--
--
+- Motion-detection system with RCWL-0516 && ESP8266 && MQTT
+- Inverted glass harp
+- WiFi-based theramin
+- Ping-pong ball launcher for training
+- Trello integrated ticket printer
